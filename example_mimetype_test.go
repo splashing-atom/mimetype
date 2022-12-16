@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gabriel-vasile/mimetype"
+	"github.com/splashing-atom/mimetype"
 )
 
 func Example_detect() {

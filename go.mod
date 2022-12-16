@@ -1,4 +1,4 @@
-module github.com/gabriel-vasile/mimetype
+module github.com/splashing-atom/mimetype
 
 go 1.12
 
